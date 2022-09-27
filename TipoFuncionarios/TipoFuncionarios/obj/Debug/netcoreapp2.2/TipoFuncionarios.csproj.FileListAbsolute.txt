@@ -1,0 +1,33 @@
+C:\Users\20210888\source\repos\TipoFuncionarios\TipoFuncionarios\bin\Debug\netcoreapp2.2\TipoFuncionarios.deps.json
+C:\Users\20210888\source\repos\TipoFuncionarios\TipoFuncionarios\bin\Debug\netcoreapp2.2\TipoFuncionarios.runtimeconfig.json
+C:\Users\20210888\source\repos\TipoFuncionarios\TipoFuncionarios\bin\Debug\netcoreapp2.2\TipoFuncionarios.runtimeconfig.dev.json
+C:\Users\20210888\source\repos\TipoFuncionarios\TipoFuncionarios\bin\Debug\netcoreapp2.2\TipoFuncionarios.dll
+C:\Users\20210888\source\repos\TipoFuncionarios\TipoFuncionarios\bin\Debug\netcoreapp2.2\TipoFuncionarios.pdb
+C:\Users\20210888\source\repos\TipoFuncionarios\TipoFuncionarios\obj\Debug\netcoreapp2.2\TipoFuncionarios.csprojAssemblyReference.cache
+C:\Users\20210888\source\repos\TipoFuncionarios\TipoFuncionarios\obj\Debug\netcoreapp2.2\TipoFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\20210888\source\repos\TipoFuncionarios\TipoFuncionarios\obj\Debug\netcoreapp2.2\TipoFuncionarios.AssemblyInfoInputs.cache
+C:\Users\20210888\source\repos\TipoFuncionarios\TipoFuncionarios\obj\Debug\netcoreapp2.2\TipoFuncionarios.AssemblyInfo.cs
+C:\Users\20210888\source\repos\TipoFuncionarios\TipoFuncionarios\obj\Debug\netcoreapp2.2\TipoFuncionarios.dll
+C:\Users\20210888\source\repos\TipoFuncionarios\TipoFuncionarios\obj\Debug\netcoreapp2.2\TipoFuncionarios.pdb
+D:\TipoFuncionarios\TipoFuncionarios\bin\Debug\netcoreapp2.2\TipoFuncionarios.deps.json
+D:\TipoFuncionarios\TipoFuncionarios\bin\Debug\netcoreapp2.2\TipoFuncionarios.runtimeconfig.json
+D:\TipoFuncionarios\TipoFuncionarios\bin\Debug\netcoreapp2.2\TipoFuncionarios.runtimeconfig.dev.json
+D:\TipoFuncionarios\TipoFuncionarios\bin\Debug\netcoreapp2.2\TipoFuncionarios.dll
+D:\TipoFuncionarios\TipoFuncionarios\bin\Debug\netcoreapp2.2\TipoFuncionarios.pdb
+D:\TipoFuncionarios\TipoFuncionarios\obj\Debug\netcoreapp2.2\TipoFuncionarios.AssemblyInfoInputs.cache
+D:\TipoFuncionarios\TipoFuncionarios\obj\Debug\netcoreapp2.2\TipoFuncionarios.AssemblyInfo.cs
+D:\TipoFuncionarios\TipoFuncionarios\obj\Debug\netcoreapp2.2\TipoFuncionarios.csproj.CoreCompileInputs.cache
+D:\TipoFuncionarios\TipoFuncionarios\obj\Debug\netcoreapp2.2\TipoFuncionarios.dll
+D:\TipoFuncionarios\TipoFuncionarios\obj\Debug\netcoreapp2.2\TipoFuncionarios.pdb
+D:\TipoFuncionarios\TipoFuncionarios\obj\Debug\netcoreapp2.2\TipoFuncionarios.csprojAssemblyReference.cache
+D:\Trabalho - C#\TipoFuncionarios\TipoFuncionarios\bin\Debug\netcoreapp2.2\TipoFuncionarios.deps.json
+D:\Trabalho - C#\TipoFuncionarios\TipoFuncionarios\bin\Debug\netcoreapp2.2\TipoFuncionarios.runtimeconfig.json
+D:\Trabalho - C#\TipoFuncionarios\TipoFuncionarios\bin\Debug\netcoreapp2.2\TipoFuncionarios.runtimeconfig.dev.json
+D:\Trabalho - C#\TipoFuncionarios\TipoFuncionarios\bin\Debug\netcoreapp2.2\TipoFuncionarios.dll
+D:\Trabalho - C#\TipoFuncionarios\TipoFuncionarios\bin\Debug\netcoreapp2.2\TipoFuncionarios.pdb
+D:\Trabalho - C#\TipoFuncionarios\TipoFuncionarios\obj\Debug\netcoreapp2.2\TipoFuncionarios.csprojAssemblyReference.cache
+D:\Trabalho - C#\TipoFuncionarios\TipoFuncionarios\obj\Debug\netcoreapp2.2\TipoFuncionarios.csproj.CoreCompileInputs.cache
+D:\Trabalho - C#\TipoFuncionarios\TipoFuncionarios\obj\Debug\netcoreapp2.2\TipoFuncionarios.AssemblyInfoInputs.cache
+D:\Trabalho - C#\TipoFuncionarios\TipoFuncionarios\obj\Debug\netcoreapp2.2\TipoFuncionarios.AssemblyInfo.cs
+D:\Trabalho - C#\TipoFuncionarios\TipoFuncionarios\obj\Debug\netcoreapp2.2\TipoFuncionarios.dll
+D:\Trabalho - C#\TipoFuncionarios\TipoFuncionarios\obj\Debug\netcoreapp2.2\TipoFuncionarios.pdb
